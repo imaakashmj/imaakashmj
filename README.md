@@ -1,6 +1,6 @@
 <h1>👋 Hey, I’m Aakash Jadhav💞️</h1>
 
-- 👀 I’m interested in Programmer / Gaming.
+- 👀 I’m interested in Programming / Gaming.
 - 🌱 I’m currently learning B.Tech
 - 📫 How to reach me https://www.linkedin.com/in/imaakash
 
