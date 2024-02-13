@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Programming / Gaming.
 - 🌱 I’m currently learning B.Tech
-- 📫 How to reach me https://www.linkedin.com/in/imaakash
+- 📫 How to reach me https://www.linkedin.com/in/aakashmj
 
 <!--- - 💞️ I’m looking to --->
 
